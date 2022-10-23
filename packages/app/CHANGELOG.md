@@ -1,5 +1,11 @@
 # app
 
+## 1.1.1
+
+### Patch Changes
+
+- [#6](https://github.com/shuntaka9576/changeset-sandbox/pull/6) [`96cbc6f`](https://github.com/shuntaka9576/changeset-sandbox/commit/96cbc6f8832c0b2ef9ff1cec0ed704cf8217f08f) Thanks [@shuntaka9576](https://github.com/shuntaka9576)! - 機能 A の x バグを修正
+
 ## 1.1.0
 
 ### Minor Changes
