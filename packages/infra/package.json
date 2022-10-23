@@ -1,5 +1,5 @@
 {
-  "name": "infra",
+  "name": "@sandbox/infra",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
