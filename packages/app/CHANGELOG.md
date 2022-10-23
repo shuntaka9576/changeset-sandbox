@@ -1,5 +1,11 @@
 # app
 
+## 1.2.0
+
+### Minor Changes
+
+- [#11](https://github.com/shuntaka9576/changeset-sandbox/pull/11) [`68fe1cf`](https://github.com/shuntaka9576/changeset-sandbox/commit/68fe1cfc2b4362b79d17e6e444d0f0446630bdf7) Thanks [@shuntaka9576](https://github.com/shuntaka9576)! - 機能 A を追加
+
 ## 1.1.2
 
 ### Patch Changes

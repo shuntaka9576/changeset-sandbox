@@ -1,5 +1,11 @@
 # infra
 
+## 1.1.2
+
+### Patch Changes
+
+- [`78886a0`](https://github.com/shuntaka9576/changeset-sandbox/commit/78886a0a36405eda7bdf914df11fbc50f2d08099) Thanks [@shuntaka9576](https://github.com/shuntaka9576)! - バグ修正
+
 ## 1.1.1
 
 ### Patch Changes
