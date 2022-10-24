@@ -1,5 +1,11 @@
 # app
 
+## 1.3.0
+
+### Minor Changes
+
+- [#14](https://github.com/shuntaka9576/changeset-sandbox/pull/14) [`cdc7fdc`](https://github.com/shuntaka9576/changeset-sandbox/commit/cdc7fdca5f251f4ddcc2c5985a29da603a184298) Thanks [@shuntaka9576](https://github.com/shuntaka9576)! - 機能 1 追加
+
 ## 1.2.0
 
 ### Minor Changes
